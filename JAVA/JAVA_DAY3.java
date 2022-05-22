@@ -36,7 +36,7 @@ public class day3 {
 			num3=num1*num2;
 		}
 		
-		System.out.println(num1+op+num2+"="+num3); -> 삭제
+		System.out.println(num1+op+num2+"="+num3);	// -> 삭제
 		
 		// num3를 프린트 말고 저장한다음에 다시 프린트ln으로 num3+출력형식
 		
